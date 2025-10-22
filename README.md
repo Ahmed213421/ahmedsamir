@@ -1,9 +1,12 @@
 <!-- Profile README.md -->
 
-<h1 align="center">👋 Hi, I'm Ahmed Samir</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  Hi, I'm Ahmed Samir
+</h1>
 
 <p align="center">
-  <b>Junior Full Stack Laravel + Vue.js Developer</b> <br>
+  <b>💻 Junior Full Stack Laravel + Vue.js Developer</b> <br>
   <i>Focused on clean, secure, and scalable web applications</i>
 </p>
 
@@ -15,12 +18,14 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-I’m a **Full-Stack Developer** with a strong foundation in modern web technologies, specializing in **Laravel** and **Vue.js**.  
-I focus on building scalable, secure, and maintainable web applications while following **SOLID principles** and **clean coding practices**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Full+Stack+Laravel+%2B+Vue.js+Developer;Loves+Clean+Code+and+SOLID+Principles;Building+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
+</p>
 
-💡 Always eager to explore new technologies, collaborate on innovative projects, and craft impactful solutions.
+I’m a **Full-Stack Developer** passionate about crafting **secure, scalable, and maintainable** web apps using **Laravel** and **Vue.js**.  
+I believe in **clean architecture**, **SOLID design**, and **continuous learning** to create impactful solutions.
 
 ---
 
@@ -31,24 +36,23 @@ I focus on building scalable, secure, and maintainable web applications while fo
 
 - Refactored and optimized backend systems for performance and maintainability.  
 - Built **admin dashboards** and **role-based permissions** with real-time updates.  
-- Implemented new features and resolved complex issues in a **cinema/theatre platform** and **clinic management system**.  
-- Used **Redis**, **Docker**, and **GitHub** for performance, containerization, and version control.  
-- Followed **SOLID principles** and **Repository Design Pattern** to ensure scalable architecture.  
+- Implemented new features and fixed issues in **cinema/theatre** and **clinic management** systems.  
+- Used **Redis**, **Docker**, and **GitHub** for caching, containerization, and collaboration.  
+- Followed **SOLID** and **Repository Design Pattern** for scalable architecture.  
 
 ---
 
 ### **Freelance Web Developer**  
 📆 **Jan 2022 – Oct 2025**  
 
-- Built **RESTful APIs** with authentication, data management, and access control.  
-- Developed **admin dashboards** using Laravel Blade, Bootstrap, and AJAX.  
-- Integrated features like email notifications, PDF exports, image uploads, and **real-time updates (Pusher)**.  
-- Maintained clean architecture using **Service Providers**, **MVC**, and **Repository Pattern**.  
+- Developed **RESTful APIs**, handling authentication and data management.  
+- Built **admin dashboards** with Laravel Blade, Bootstrap, and AJAX.  
+- Integrated **email notifications**, **PDF exports**, **image uploads**, and **real-time updates (Pusher)**.  
+- Ensured clean architecture with **MVC** and **Service Providers**.  
 
 ---
 
 ### **Previous Roles**
-
 - 🧩 **Laravel Developer** — *ITShare* (Apr 2020 – Jun 2020)  
 - 💻 **Laravel Developer** — *New Horizons Egypt* (Sep 2019 – Dec 2019)  
 - 🎨 **Web Designer** — *New Horizons Egypt* (Jan 2022 – Apr 2022)  
@@ -84,6 +88,15 @@ _Bachelor’s in Computer Science (Information Technology)_
 
 ---
 
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=spiderofegypt&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderofegypt&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -100,4 +113,10 @@ _Bachelor’s in Computer Science (Information Technology)_
 
 ---
 
-⭐️ **“Clean Code. Scalable Systems. Real Impact.”**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderofegypt&bg_color=0d1117&color=00ffb3&line=00c853&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+⭐️ **“Clean Code. Scalable Systems. Real Impact.”**
