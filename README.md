@@ -88,14 +88,7 @@ _Bachelor’s in Computer Science (Information Technology)_
 
 ---
 
-## ⚡ GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=spiderofegypt&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderofegypt&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
