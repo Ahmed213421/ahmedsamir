@@ -1,115 +1,253 @@
 <!-- Profile README.md -->
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  Hi, I'm Ahmed Samir
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>💻 Junior Full Stack Laravel + Vue.js Developer</b> <br>
-  <i>Focused on clean, secure, and scalable web applications</i>
-</p>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
 
-<p align="center">
-  📍 Cairo, Egypt • 
-  📧 <a href="mailto:ahmedelmougy98@gmail.com>ahmedelmougy98@gmail.com</a> • 
-  🔗 <a href="https://www.linkedin.com/in/ahmedsamir12" target="_blank">LinkedIn</a>
-</p>
+# Hi, I'm Ahmed Samir El-Mougy
+
+### 💻 Junior Full-Stack Web Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Laravel+%2B+Vue.js+Developer;Angular+%2B+React.js+Experience;Building+Responsive+Web+Applications;Creating+Clean+%26+Scalable+Code" alt="Typing Animation" />
+
+</div>
 
 ---
 
-### 🧠 About Me
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Full+Stack+Laravel+%2B+Vue.js+Developer;Loves+Clean+Code+and+SOLID+Principles;Building+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
-</p>
+📍 **Cairo, Egypt**
+📧 <a href="mailto:ahmedelmougy98@gmail.com">[ahmedelmougy98@gmail.com](mailto:ahmedelmougy98@gmail.com)</a>
+📞 **+201060074793**
+🔗 <a href="https://www.linkedin.com/in/ahmedsamir12" target="_blank">LinkedIn</a>
+🐙 <a href="https://github.com/spiderofegypt" target="_blank">GitHub</a>
 
-I’m a **Full-Stack Developer** passionate about crafting **secure, scalable, and maintainable** web apps using **Laravel** and **Vue.js**.  
-I believe in **clean architecture**, **SOLID design**, and **continuous learning** to create impactful solutions.
-
----
-
-## 💼 Experience
-
-### **innovaDigits** — *Back-End Developer*  
-📆 **May 2025 – Present** | Mansoura, Egypt  
-
-- Refactored and optimized backend systems for performance and maintainability.  
-- Built **admin dashboards** and **role-based permissions** with real-time updates.  
-- Implemented new features and fixed issues in **cinema/theatre** and **clinic management** systems.  
-- Used **Redis**, **Docker**, and **GitHub** for caching, containerization, and collaboration.  
-- Followed **SOLID** and **Repository Design Pattern** for scalable architecture.  
+</div>
 
 ---
 
-### **Freelance Web Developer**  
-📆 **Jan 2022 – Oct 2025**  
+## 🧠 About Me
 
-- Developed **RESTful APIs**, handling authentication and data management.  
-- Built **admin dashboards** with Laravel Blade, Bootstrap, and AJAX.  
-- Integrated **email notifications**, **PDF exports**, **image uploads**, and **real-time updates (Pusher)**.  
-- Ensured clean architecture with **MVC** and **Service Providers**.  
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I’m a **Junior Full-Stack Developer** skilled in **PHP, Laravel, Vue.js, Angular, and React.js**.
+
+I have experience building **responsive web applications**, **RESTful APIs**, **database-driven systems**, and clean, maintainable code.
+
+I focus on creating secure, scalable, and user-friendly web solutions while continuously improving my frontend and backend development skills.
+
+<br clear="right"/>
 
 ---
 
-### **Previous Roles**
-- 🧩 **Laravel Developer** — *ITShare* (Apr 2020 – Jun 2020)  
-- 💻 **Laravel Developer** — *New Horizons Egypt* (Sep 2019 – Dec 2019)  
-- 🎨 **Web Designer** — *New Horizons Egypt* (Jan 2022 – Apr 2022)  
-- 🖌️ **Graphic Designer** — *ITShare* (Feb 2022 – Mar 2022)  
-- 🏫 **Graphic Designer / Python Intern** — *Mansoura University* (Jul 2017 – Sep 2017)  
+## 💼 Professional Experience
+
+### 🏢 Full-Stack Web Developer — InnovaDigits
+
+📆 **Mar 2025 – Present** | Full-Time
+
+* 🚀 Led development of the **SEEC Saudi** project using **Angular**, delivering dashboard and landing page interfaces with full API integration.
+* 💻 Developed and maintained responsive web applications using **Angular** and **Vue.js**, ensuring cross-device compatibility.
+* 🛒 Built and maintained a full-featured **e-commerce platform**, including product pages and admin dashboards using **PHP, Laravel, and Vue.js**.
+* 🧩 Engineered reusable component libraries to improve scalability, maintainability, and development efficiency.
+* ⚡ Optimized frontend performance, database queries, and search functionality, reducing page load time by **~70%**, query response time by **~35%**, and improving search speed by **~30%**.
+* 🔗 Implemented **Laravel RESTful APIs** to power dynamic frontend functionality.
+* 🔄 Migrated project views from **Blade to Vue.js** for a project management tool.
+* 🤖 Designed and developed a **Vue.js chatbot** to enhance user interaction and task-related support.
+
+---
+
+### 🧑‍💻 Full-Stack Web Developer Intern — InnovaDigits
+
+📆 **Jan 2025 – Mar 2025** | Full-Time
+
+* 🛠️ Contributed to production-level full-stack features under senior developer mentorship.
+* 📚 Gained hands-on experience with **Angular, Vue.js, and Laravel**.
+* 🔍 Worked on frontend interfaces, backend APIs, and real-world application improvements.
+
+---
+
+### 🌍 Freelance Full-Stack Web Developer — Self-Employed
+
+📆 **Jan 2022 – Mar 2026** | Remote • Freelance
+
+* 🔐 Designed and delivered **RESTful APIs** for multiple clients, including authentication, role-based access control, and data management.
+* 🎨 Built dynamic interfaces using **Laravel Blade, Bootstrap, and AJAX** for seamless user experience.
+* 📩 Integrated third-party services including email notifications, PDF exports, image uploads, and real-time updates via **Pusher**.
+* 📊 Developed custom admin dashboards and CMS-based web applications using **Laravel MVC architecture**.
 
 ---
 
 ## 🎓 Education
 
-🎓 **Misr University for Science and Technology**  
-_Bachelor’s in Computer Science (Information Technology)_  
-📆 2016 – 2020  
+### 🎓 Higher Institute of Management & Information Technology
+
+**B.Sc. in Computer Science**
+📆 **Sep 2016 – Aug 2020**
+🏅 Grade: **Very Good**
+
+### 🏥 Graduation Project
+
+**Web-based Medicine Warehouse Management System**
+
+A full-featured system for managing pharmacy stock, including:
+
+* ➕ Add medicines
+* ✏️ Update medicine details
+* 🗑️ Delete records
+* 🔍 Search medicines
+* ⏰ Track expiration dates
+* ⚠️ Low-stock alerts
+
+The system helped reduce manual effort and minimize stock management errors.
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,git,github,docker,redis" alt="Tech Stack" />
-</p>
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=vue,react,angular,next,nuxt,js,ts,html,css,sass,bootstrap,tailwind" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,wordpress,redis" />
+
+</div>
 
 ---
 
-## 🧩 Key Skills
+## 🧩 Technical Skills
 
-✅ Vue.js  
-✅ Laravel  
-✅ SOLID Design Principles  
-✅ Clean Code Architecture  
-✅ RESTful API Development  
-✅ Repository Design Pattern  
+<div align="center">
+
+| Backend            | Frontend                 | Tools     | Soft Skills     |
+| ------------------ | ------------------------ | --------- | --------------- |
+| PHP                | JavaScript               | Git       | Teamwork        |
+| Laravel            | TypeScript               | GitHub    | Time Management |
+| MySQL / SQL        | Vue.js                   | Figma     | Adaptability    |
+| RESTful APIs       | React.js                 | WordPress | Problem Solving |
+| MVC Architecture   | Angular                  | Pusher    |                 |
+| Repository Pattern | Next.js / Nuxt.js        | Docker    |                 |
+|                    | Bootstrap / Tailwind CSS | Redis     |                 |
+
+</div>
 
 ---
 
+## 🚀 Selected Projects
 
+### 🛒 E-Commerce Platform
+
+**Vue.js • Nuxt.js • Tailwind CSS**
+🔗 Live Demo
+
+### 📊 E-Commerce Dashboard Platform
+
+**Vue.js • Nuxt.js • Tailwind CSS**
+🔗 Live Demo
+
+### 🛍️ E-Commerce Website
+
+**Laravel • PHP • MySQL**
+🐙 GitHub
+
+### 🌐 Wahat Market Website
+
+**HTML • CSS • Bootstrap**
+🔗 Live Demo
+
+### 🎀 Joli-Dol Website
+
+**HTML • CSS • Bootstrap**
+🔗 Live Demo
+
+### 📣 Misyan Marketing Group Website
+
+**HTML • CSS • Bootstrap**
+🔗 Live Demo
+
+---
+
+## 📜 Certifications
+
+* 🏆 **Laravel RESTful APIs for Beginners** — Udemy, 2025
+* 🎨 **Web Design** — New Horizons, 2019
+* ⚛️ **The Ultimate React Course** — Udemy, 2026
+* 🐍 **Python** — Mansoura University, 2018
+* 🧩 **Odoo Training Program** — Select, 2018
+
+---
+
+## 🌍 Languages
+
+* 🇪🇬 Arabic — Native
+* 🇬🇧 English — Professional
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spiderofegypt&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderofegypt&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=spiderofegypt&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderofegypt&bg_color=0d1117&color=00ffb3&line=00c853&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="mailto:spiderofegypt98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmedsamir12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/spiderofegypt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:ahmedelmougy98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ahmedsamir12" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/spiderofegypt" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderofegypt&bg_color=0d1117&color=00ffb3&line=00c853&point=ffffff&area=true&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer" />
 
-⭐️ **“Clean Code. Scalable Systems. Real Impact.”**
+### ⭐️ Clean Code. Scalable Systems. Real Impact.
+
+</div>
