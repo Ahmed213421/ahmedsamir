@@ -1,3 +1,5 @@
+Updated version with **no Cairo/Egypt location** and **no Activity Graph**, while keeping animations, icons, GitHub stats, trophies, and CV-matched content. 
+
 <!-- Profile README.md -->
 
 <div align="center">
@@ -16,7 +18,6 @@
 
 <div align="center">
 
-📍 **Cairo, Egypt**
 📧 <a href="mailto:ahmedelmougy98@gmail.com">[ahmedelmougy98@gmail.com](mailto:ahmedelmougy98@gmail.com)</a>
 📞 **+201060074793**
 🔗 <a href="https://www.linkedin.com/in/ahmedsamir12" target="_blank">LinkedIn</a>
@@ -53,7 +54,7 @@ I focus on creating secure, scalable, and user-friendly web solutions while cont
 * ⚡ Optimized frontend performance, database queries, and search functionality, reducing page load time by **~70%**, query response time by **~35%**, and improving search speed by **~30%**.
 * 🔗 Implemented **Laravel RESTful APIs** to power dynamic frontend functionality.
 * 🔄 Migrated project views from **Blade to Vue.js** for a project management tool.
-* 🤖 Designed and developed a **Vue.js chatbot** to enhance user interaction and task-related support.
+* 🤖 Designed and developed a **Vue.js chatbot** to enhance user interaction.
 
 ---
 
@@ -209,16 +210,6 @@ The system helped reduce manual effort and minimize stock management errors.
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=spiderofegypt&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderofegypt&bg_color=0d1117&color=00ffb3&line=00c853&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
