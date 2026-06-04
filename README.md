@@ -141,40 +141,6 @@ The system helped reduce manual effort and minimize stock management errors.
 
 ---
 
-## 🚀 Selected Projects
-
-### 🛒 E-Commerce Platform
-
-**Vue.js • Nuxt.js • Tailwind CSS**
-🔗 Live Demo
-
-### 📊 E-Commerce Dashboard Platform
-
-**Vue.js • Nuxt.js • Tailwind CSS**
-🔗 Live Demo
-
-### 🛍️ E-Commerce Website
-
-**Laravel • PHP • MySQL**
-🐙 GitHub
-
-### 🌐 Wahat Market Website
-
-**HTML • CSS • Bootstrap**
-🔗 Live Demo
-
-### 🎀 Joli-Dol Website
-
-**HTML • CSS • Bootstrap**
-🔗 Live Demo
-
-### 📣 Misyan Marketing Group Website
-
-**HTML • CSS • Bootstrap**
-🔗 Live Demo
-
----
-
 ## 📜 Certifications
 
 * 🏆 **Laravel RESTful APIs for Beginners** — Udemy, 2025
