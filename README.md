@@ -1,4 +1,3 @@
-Updated version with **no Cairo/Egypt location** and **no Activity Graph**, while keeping animations, icons, GitHub stats, trophies, and CV-matched content. 
 
 <!-- Profile README.md -->
 
