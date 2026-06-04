@@ -12,7 +12,7 @@
 
 <p align="center">
   📍 Cairo, Egypt • 
-  📧 <a href="mailto:spiderofegypt98@gmail.com">spiderofegypt98@gmail.com</a> • 
+  📧 <a href="mailto:ahmedelmougy98@gmail.com>ahmedelmougy98@gmail.com</a> • 
   🔗 <a href="https://www.linkedin.com/in/ahmedsamir12" target="_blank">LinkedIn</a>
 </p>
 
