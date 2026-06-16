@@ -7,7 +7,7 @@
 
 # Hi, I'm Ahmed Samir El-Mougy
 
-### 💻 Junior Full-Stack Web Developer
+### 💻 Full-Stack Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Laravel+%2B+Vue.js+Developer;Angular+%2B+React.js+Experience;Building+Responsive+Web+Applications;Creating+Clean+%26+Scalable+Code" alt="Typing Animation" />
 
