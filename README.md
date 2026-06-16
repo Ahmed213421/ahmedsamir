@@ -30,7 +30,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I’m a **Junior Full-Stack Developer** skilled in **PHP, Laravel, Vue.js, Angular, and React.js**.
+I’m a **Full-Stack Developer** skilled in **PHP, Laravel, Vue.js, Angular, and React.js**.
 
 I have experience building **responsive web applications**, **RESTful APIs**, **database-driven systems**, and clean, maintainable code.
 
