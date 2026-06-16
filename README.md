@@ -44,7 +44,7 @@ I focus on creating secure, scalable, and user-friendly web solutions while cont
 
 ### 🏢 Full-Stack Web Developer — InnovaDigits
 
-📆 **Mar 2025 – Present** | Full-Time
+📆 **Mar 2024 – Present** | Full-Time
 
 * 🚀 Led development of the **SEEC Saudi** project using **Angular**, delivering dashboard and landing page interfaces with full API integration.
 * 💻 Developed and maintained responsive web applications using **Angular** and **Vue.js**, ensuring cross-device compatibility.
@@ -59,7 +59,7 @@ I focus on creating secure, scalable, and user-friendly web solutions while cont
 
 ### 🧑‍💻 Full-Stack Web Developer Intern — InnovaDigits
 
-📆 **Jan 2025 – Mar 2025** | Full-Time
+📆 **Jan 2024 – Mar 2024** | Full-Time
 
 * 🛠️ Contributed to production-level full-stack features under senior developer mentorship.
 * 📚 Gained hands-on experience with **Angular, Vue.js, and Laravel**.
@@ -148,6 +148,7 @@ The system helped reduce manual effort and minimize stock management errors.
 * ⚛️ **The Ultimate React Course** — Udemy, 2026
 * 🐍 **Python** — Mansoura University, 2018
 * 🧩 **Odoo Training Program** — Select, 2018
+* 🏆 **Back-End (Php,Mysql,Laravel)** — ItShare, 2025
 
 ---
 
